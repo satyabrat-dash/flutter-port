@@ -17,6 +17,8 @@ class AssetPreloader {
     'assets/images/rohan.png',
     'assets/images/front.jpg',
     'assets/images/back.jpg'
+    'assets/images/newback.jpg'
+
   ];
 
   Future<void> preloadAssets() async {

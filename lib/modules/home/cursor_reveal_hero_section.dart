@@ -171,7 +171,7 @@ class _CursorRevealHeroSectionState extends State<CursorRevealHeroSection> with 
             children: [
               Positioned.fill(
                 child: Image.asset(
-                  'assets/images/back.jpg',
+                  'assets/images/newback.jpg',
                   fit: BoxFit.cover,
                   errorBuilder:
                       (context, error, stackTrace) => Container(
